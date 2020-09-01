@@ -1,1 +1,2 @@
 - http://wiki.friendlyarm.com/wiki/index.php/NanoPi_R2S/zh
+- https://item.taobao.com/item.htm?id=611901481535
