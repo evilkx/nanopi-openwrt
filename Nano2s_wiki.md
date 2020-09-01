@@ -1,0 +1,1 @@
+- http://wiki.friendlyarm.com/wiki/index.php/NanoPi_R2S/zh
